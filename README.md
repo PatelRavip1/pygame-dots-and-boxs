@@ -1,6 +1,6 @@
 # pygame-dots-and-boxs
 dots and boxs game made in pygame
-
+![](image/Game.png)
 ![](image/444.png)
 ![](image/444y.png)
 ![](image/dfdd.png)
