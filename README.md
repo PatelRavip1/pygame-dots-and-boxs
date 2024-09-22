@@ -12,4 +12,4 @@ tline = 2ab+a+b
 
 ![](image/Untitled1.png)
 ![](image/Untitled2.png)
-![](image/Game.png)
+![](image/game1.png)
