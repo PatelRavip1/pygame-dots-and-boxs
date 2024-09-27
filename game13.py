@@ -4,7 +4,7 @@ from random import randint
 
 a = int(input("Enter size\n"))
 b = int(input())
-if a < 2 or b < 2:
+if a < 2 or b < 2:# bug it only checks min first if condition satisfies it will not care for other length 
     a,b = 2,2
 elif a > 20 or b > 10:
     a,b = 20,10
